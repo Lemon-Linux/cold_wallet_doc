@@ -112,7 +112,7 @@
 
 首次启动时，需要创建一个强密码来保护您的加密钱包。密码需满足：至少 8 位、含大小写字母、数字，并勾选同意服务条款。
 
-![创建主密码](assets/create_password-9018e9d7-28e6-4268-a15f-628719b72a7e.png)
+![创建主密码](../assets/create_password-9018e9d7-28e6-4268-a15f-628719b72a7e.png)
 
 #### 2. 钱包设置
 
@@ -129,7 +129,7 @@
 2. **下载**：将文件保存到安全位置（建议 USB 闪存盘），**两个文件最好分开存放（`xxx_secure_private_key` 和 `xxx_secure_meta.data` 文件）**
 3. **继续**：保存完成后进入主界面
 
-![生成密钥文件](assets/generate_key_files-31076c48-ea1c-4cfe-ba85-46eaeb77975b.png)
+![生成密钥文件](../assets/generate_key_files-31076c48-ea1c-4cfe-ba85-46eaeb77975b.png)
 
 > ⚠️ **重要**：目前仅支持 Solana 网络。丢失任一密钥文件将导致资产无法恢复。
 
@@ -141,7 +141,7 @@
 
 已有钱包的用户，输入主密码即可登录。
 
-![登录](assets/login-40cb4979-8953-4bf7-b527-f43e5a534f30.png)
+![登录](../assets/login-40cb4979-8953-4bf7-b527-f43e5a534f30.png)
 
 #### 2. 主界面（Home）
 
@@ -150,14 +150,14 @@
 - **No Key**：表示当前未加载私钥，可查看地址和余额，但**无法发送**
 - **Key Loaded**：已加载私钥，可进行发送操作
 
-![主界面](assets/home-22d9a247-8de3-4eed-acd9-11ea2eb34e88.png)
+![主界面](../assets/home-22d9a247-8de3-4eed-acd9-11ea2eb34e88.png)
 
 #### 3. 密钥管理（Keys）
 
 - **未加载**：点击「Load Key」选择 `xxx_secure_private_key` 文件加载
 - **已加载**：显示绿色「Key Loaded」，可点击「Unload Key」卸载（会清除敏感信息）
 
-![密钥已加载](assets/key_loaded-577a4bb6-dafa-4149-a46d-84cf8e044c65.png)
+![密钥已加载](../assets/key_loaded-577a4bb6-dafa-4149-a46d-84cf8e044c65.png)
 
 > 发送资产前必须先加载密钥。若在主界面点击 Send 时未加载，会自动跳转到密钥管理页。
 
@@ -165,13 +165,13 @@
 
 可生成新钱包、导入钱包文件，并查看已加载的钱包列表及余额。
 
-![钱包管理](assets/wallet_management-97e34b8a-1890-4b7d-b88c-9791974d0328.png)
+![钱包管理](../assets/wallet_management-97e34b8a-1890-4b7d-b88c-9791974d0328.png)
 
 #### 5. 接收资产（Receive）
 
 展示钱包地址的二维码和文本，可复制地址。**无需加载密钥**即可接收。
 
-![接收](assets/receive-f4f349c7-59f6-498e-ab68-e2fe430482b6.png)
+![接收](../assets/receive-f4f349c7-59f6-498e-ab68-e2fe430482b6.png)
 
 > 仅支持向此地址发送 Solana (SOL) 和 SPL 代币。
 
@@ -183,13 +183,13 @@
 - 钱包会预留约 0.01 SOL 作为手续费
 - 可使用 Max 按钮填入最大可发送金额
 
-![发送](assets/send-5be203ea-1cd6-4a2f-b1c5-6df3fca4ae23.png)
+![发送](../assets/send-5be203ea-1cd6-4a2f-b1c5-6df3fca4ae23.png)
 
 #### 7. 个人资料（Profile）
 
 可查看/编辑钱包名称、版本信息，以及登出。
 
-![个人资料](assets/profile-b4a8bf54-c170-42a7-9de7-e68f9fd8b65e.png)
+![个人资料](../assets/profile-b4a8bf54-c170-42a7-9de7-e68f9fd8b65e.png)
 
 ---
 
@@ -197,7 +197,7 @@
 
 密码在本地加密存储，**无法恢复**。若忘记密码，只能通过「删除密码并清除所有数据」后，用备份的私钥文件重新导入。
 
-![忘记密码](assets/reset_password-cd03bbce-379b-4b48-bf1f-ff6e7ddd1370.png)
+![忘记密码](../assets/reset_password-cd03bbce-379b-4b48-bf1f-ff6e7ddd1370.png)
 
 > ⚠️ **操作前务必确认**：已安全备份两个私钥文件（`xxx_secure_meta.data` 和 `xxx_secure_private_key`），否则将永久失去资产访问权限。
 
