@@ -1,4 +1,4 @@
-# 冷钱包 (Cold Wallet)
+# 冷钱包 (Cold Wallet) - Zh
 
 > 一个安全、离线的加密货币冷钱包应用程序，使用 Rust 和 Iced GUI 框架构建，专注于 Solana 生态。
 

@@ -1,4 +1,4 @@
-# Cold Wallet
+# Cold Wallet - En
 
 > A secure, offline cryptocurrency cold wallet application built with Rust and the Iced GUI framework, focused on the Solana ecosystem.
 
