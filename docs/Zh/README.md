@@ -106,9 +106,9 @@
 
 ### 软件安装 :id=software-install
 
-[macOS 下载](https://github.com/Lemon-Linux/cold_wallet_doc/releases/download/v0.3.0/Cold_Wallet-0.3.0.dmg)
+[macOS 下载](https://github.com/Lemon-Linux/cold_wallet_doc/releases/download/v0.3.1/Cold_Wallet-0.3.1.dmg)
 
-[Window 版本](https://github.com/Lemon-Linux/cold_wallet_doc/releases/download/v0.3.0/cold_wallet_0.3.0.msi)
+[Window 版本](https://github.com/Lemon-Linux/cold_wallet_doc/releases/download/v0.3.1/cold_wallet_0.3.1.msi)
 window需要win7 以上版本
 
 ***

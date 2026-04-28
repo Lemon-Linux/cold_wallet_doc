@@ -105,9 +105,9 @@ Keeping assets on exchanges or in hot wallets is essentially exposing private ke
 ## User Guide
 
 ### Software Installation :id=software-install
-[macOS Version](https://github.com/Lemon-Linux/cold_wallet_doc/releases/download/v0.3.0/Cold_Wallet-0.3.0.dmg)
+[macOS Version](https://github.com/Lemon-Linux/cold_wallet_doc/releases/download/v0.3.1/Cold_Wallet-0.3.1.dmg)
 
-[Window Version](https://github.com/Lemon-Linux/cold_wallet_doc/releases/download/v0.3.0/cold_wallet_0.3.0.msi)
+[Window Version](https://github.com/Lemon-Linux/cold_wallet_doc/releases/download/v0.3.1/cold_wallet_0.3.1.msi)
 Requires a system with Windows 10 or higher version
 
 ***
